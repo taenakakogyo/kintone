@@ -1,0 +1,14 @@
+@charset "UTF-8";
+#getButton {
+  padding: 0 12px;
+  height: 48px;
+  border: 1px solid #e3e7e8;
+  background-color: #f7f9fa;
+  box-shadow: 1px 1px 1px #fff inset;
+  color: #3498db;
+  vertical-align: top;
+}
+#getButton:hover {
+  background-color: #c8d6dd;
+  box-shadow: none;
+}
