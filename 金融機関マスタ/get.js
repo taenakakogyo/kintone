@@ -77,6 +77,9 @@
         await putRecords(recs)
       }
       _spinner.hide();
+
+      alert("完了しました");
+
       window.location.reload();
     }
 
